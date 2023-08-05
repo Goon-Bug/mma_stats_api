@@ -1,0 +1,7 @@
+pandas~=2.0.3
+fastapi~=0.100.1
+selenium~=4.10.0
+mysql~=0.0.3
+mysql-connector-python~=8.1.0
+
+# make sure chrome browser and chrome driver are the latest versions
